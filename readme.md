@@ -4,6 +4,12 @@
 
 https://cryptic-spire-73148.herokuapp.com/
 
+usuario:
+`admin`
+
+contraseña:
+`passWord123`
+
 # instalacion de ambiente local
 
 ## django (backend)
