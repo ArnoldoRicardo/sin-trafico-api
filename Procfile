@@ -1,2 +1,1 @@
-web: gunicorn sintraficoapi.wsgi --log-file
-
+web: gunicorn sintraficoapi.wsgi --log-file -
