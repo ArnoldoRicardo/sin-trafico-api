@@ -25,7 +25,7 @@ SECRET_KEY = '_m=f%byf_vx_@y-f@h3=9u*cnj^vlnq#bh==!g(ec+q&yu(ytj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [os.environ['DOMAIN']]
 
 CORS_ORIGIN_ALLOW_ALL = True
 
