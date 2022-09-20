@@ -1,8 +1,7 @@
 <!-- @format -->
 
-# heroku url
-
-https://cryptic-spire-73148.herokuapp.com/
+# railway url
+https://sin-trafico-api-production.up.railway.app/
 
 usuario:
 `admin`
